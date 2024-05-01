@@ -45,6 +45,11 @@
   left: -4px;
 }
 
+.empresa a {
+  text-decoration: none;
+  color: #141414;
+}
+
 .empresa-ano {
   position: absolute;
   top: 22px;
